@@ -23,20 +23,20 @@ We publish hours, offerings and contact paths clearly so customers know what to 
 
 ---
 
-## Our promise
+## What drives us
 
-At Ccpld Fr, great counseling practice shouldn't require guesswork. We publish hours, prices, and policies so your visit starts with confidence.
+Ccpld Fr is a counseling practice built around real neighbors in Seattle. We'd rather do fewer things well than overwhelm you with noise.
 
-- Transparent menus and service lists
-- Staff who explain options without pressure
-- Quality that holds up visit after visit
-- Follow-through when something needs fixing
+- Curated offerings over endless catalogs
+- Human replies instead of auto-responses
+- Seasonal updates that actually change
+- A front door that's easy to find
 
 ---
 
-## The long view
+## Looking ahead
 
-Become the counseling practice benchmark in Seattle — known for craft, accessibility, and a brand identity that feels unmistakably Ccpld Fr.
+Expand what Ccpld Fr does best while keeping the same welcome — evolving with healthcare trends without losing our local voice.
 
 ---
 
@@ -75,6 +75,91 @@ Become the counseling practice benchmark in Seattle — known for craft, accessi
 
 ---
 
+
+# Featured Categories
+
+| Category | Description |
+|----------|-------------|
+| **New Arrivals** | Latest additions to our counseling practice catalog |
+| **Best Sellers** | Customer favorites and most-requested options |
+| **Signature Experience** | Our most requested package |
+| **Counseling Practice Essentials** | Core offering for everyday guests |
+| **Essentials** | Everyday foundations of the brand |
+| **Premium** | Elevated selections for special occasions |
+| **Support** | Guidance, sizing help and aftercare |
+| **Visit / Book** | Hours, appointments and walk-in options |
+
+
+---
+
+# Brand Style
+
+### Refined Essentials
+
+Timeless basics that mix with almost anything.
+
+### Premium Moments
+
+Elevated selections when the occasion asks for more.
+
+### Seasonal Rotation
+
+Fresh highlights without resetting the whole catalog.
+
+### Workday Ready
+
+Practical choices that still look intentional.
+
+---
+
+# Why Choose Ccpld Fr?
+
+### Craft first
+
+We invest in the work behind the counter, not filler marketing.
+
+### Built to return
+
+Consistency matters more than one flashy launch.
+
+### Local roots
+
+Based in Seattle with a team you can meet in person.
+
+### Craft first
+
+We invest in the work behind the counter, not filler marketing.
+---
+
+# What the website includes
+
+- Responsive layout tuned for mobile
+- Clear **Services** with prices
+- Visit page with map and hours
+- Contact form — stay on site, no redirects
+- Policies and support desk email
+
+---
+
+# Brand Identity
+
+**Industry:** Counseling Practice (Healthcare)  
+**Location:** Seattle, WA  
+**Audience:** Customers looking for reliable, accessible counseling practice.
+
+---
+
+# Repository
+
+Public profile + website assets for **Ccpld Fr**.
+
+```text
+ccpld-fr/
+├── README.md
+└── ccpld-fr.github.io/
+```
+
+---
 
 # Customer Support
 
